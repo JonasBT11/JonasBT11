@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi! I'm Jonas. I'm at the beginning of my Data Analytics journey. 
+
+With some python experience already acquired, I'm looking to build on this and explore many other programming languages! SQL and Tabeleau look to be valuable parts of a recognised data analyst's career, areas I'm excited to learn from others and hopefully teach myself as I did with Python.
+
+Working in the scientific and environmental field with data is something that hugely interests me and is relatable to my previous experience as a scientist.
 
 <!--
 **JonasBT11/JonasBT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
