@@ -1,4 +1,4 @@
-Hi! I'm Jonas. I'm at the beginning of my Data Analytics journey. 
+An analytical scientist at the beginning of my Data Analytics journey. 
 
 With some python experience already acquired, I'm looking to build on this and explore many other programming languages! SQL and Tabeleau look to be valuable parts of a recognised data analyst's skill set, I'm excited to learn all of this from others and hopefully teach myself as I did with Python.
 
